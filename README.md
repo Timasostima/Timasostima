@@ -1,8 +1,6 @@
 <h1 align="center">My Skills</h1>
 <p align="center"> 
-  <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=kotlin,java,git,mysql,html,css,linux" /> 
-  </a> 
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,java,git,mysql,html,css,linux" />
 </p>
 <!--- figma,eclipse,idea -->
 
