@@ -2,6 +2,11 @@
 <p align="center"> 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,java,git,mysql,html,css,linux" />
 </p>
+
+<h3>Codewars</h3>
+<a href="https://www.codewars.com/users/Timasostima/badges/small">
+    <img src="https://www.codewars.com/users/Timasostima/badges/small">
+</a>
 <!--- figma,eclipse,idea -->
 
 <!--- 
