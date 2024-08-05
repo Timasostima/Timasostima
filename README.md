@@ -4,7 +4,7 @@
 </p>
 
 <h3>Codewars</h3>
-<a href="https://www.codewars.com/users/Timasostima/badges/small">
+<a href="https://www.codewars.com/users/Timasostima">
     <img src="https://www.codewars.com/users/Timasostima/badges/small">
 </a>
 <!--- figma,eclipse,idea -->
