@@ -1,6 +1,6 @@
 <h3>My Skills</h3>
 <p> 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,java,git,mysql,html,css,linux" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,java,spring,maven,gradle,git,mysql,bash,html,css&perline=6" />
 </p>
 
 <h3>Coding challenges</h3>
