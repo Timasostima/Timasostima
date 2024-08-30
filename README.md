@@ -1,9 +1,9 @@
-<h3>My Skills</h3>
+## 👨‍💻Languages & Technologies I use: 
 <p> 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,java,spring,postman,maven,gradle,git,mysql,bash,html,css&perline=7" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,postman,mysql,docker,kubernetes,kotlin,jetpackcompose,maven,gradle,bash,git,github,python,c,html,css,figma&perline=10" />
 </p>
 
-<h3>Coding challenges</h3>
+## 🏋️‍♀️Coding challenges 
 <table>
     <tr>
         <th>Codewars</th>
