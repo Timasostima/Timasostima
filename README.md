@@ -1,6 +1,10 @@
 ## 👨‍💻Languages & Technologies I use: 
 <p> 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,postman,mysql,docker,kubernetes,kotlin,jetpackcompose,maven,gradle,bash,git,github,python,c,html,css,figma&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,maven,gradle,kotlin,jetpackcompose,python,flask,c,bash,html,css" alt="Languages and Frameworks"/>
+    <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb,idea,pycharm,eclipse,vscode" alt="Databases and IDEs"/>
+    <br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,docker,figma" alt="Tools & Utilities"/>
 </p>
 
 ## 🏋️‍♀️Coding challenges 
@@ -12,13 +16,13 @@
     <tr>        
         <td>
             <a href="https://www.codewars.com/users/Timasostima">
-                <img src="https://www.codewars.com/users/Timasostima/badges/micro" width="150px">
+                <img src="https://www.codewars.com/users/Timasostima/badges/micro" width="162px">
             </a>
         </td>
         <td>
             <!-- https://leetcode-badge.vercel.app/ -->
             <a href="https://leetcode.com/u/timasostima/">
-                <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimasostima&logo=leetcode&logoColor=yellow" width="135px"> 
+                <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimasostima&logo=leetcode&logoColor=yellow" width="142px"> 
             </a>
         </td>
     </tr>
