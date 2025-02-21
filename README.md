@@ -1,4 +1,9 @@
-## 👨‍💻Languages & Technologies I use: 
+👨‍🎓 About Me
+
+I am a second-year FP DAM student passionate about software development, with experience in backend, frontend, and mobile technologies. I enjoy tackling programming challenges and applying my knowledge to practical projects.
+
+💡 Technical Skills
+Languages & Technologies
 <p> 
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,maven,gradle,kotlin,jetpackcompose,python,flask,c,bash,html,css" alt="Languages and Frameworks"/>
     <br>
@@ -7,7 +12,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,docker,figma" alt="Tools & Utilities"/>
 </p>
 
-## 🏋️‍♀️Coding challenges 
+🧩 Coding Challenges
 <table>
     <tr>
         <th>Codewars</th>
@@ -27,6 +32,5 @@
         </td>
     </tr>
 </table>
-
 
 
